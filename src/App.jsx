@@ -34,8 +34,8 @@ function App() {
         <Schedule />
         <SponsersPartners />
         <SpeakerJudges />
-        <Team />
-        <Mentors />
+        {/* <Team />
+        <Mentors /> */}
         <CommunityPartners />
         {/* <CarouselComp /> */}
         {/* <OrgTeam /> */}
